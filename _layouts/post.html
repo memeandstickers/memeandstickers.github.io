@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <header class="post-header">
+    {% if page.external-url %}
+      <h1><a href="{{ page.external-url }}">{{ page.title }}</a></h1>
+    {% else %}
+      <h1>{{ page.title }}</h1>
+    {% endif %}
+
+    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if site.author %} • {{ site.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <article class="post-content">
+  {{ content | replace: '<li>[ ]', '<li><i class="fa fa-square-o"></i>' | replace: '<li>[]', '<li><i class="fa fa-square-o"></i>' | replace: '<li>[x]', '<li><i class="fa fa-check-square-o"></i>' | replace: '<li>[X]', '<li><i class="fa fa-check-square-o"></i>'  }}
+
+  {% assign category = site.data.categories[page.category] %}
+  <p id="post-meta">Posted 
+  {% if category == null %}
+    {% assign category = page.category %}
+  {% endif %}
+  in <readmore><a href="/blog/category/#{{ page.category }}">{{ category }}</a></readmore>
+  
+
+  {% assign tag_size = page.tags.size %}
+  {% if tag_size > 0 %}
+    with tags:<i class="fa fa-tags"></i>
+    {% for post_tag in page.tags %}
+      {% assign tag = site.data.tags[post_tag] %}
+      {% if tag == null %}
+        {% assign tag = post_tag %}
+      {% endif %}
+      <a href="/blog/tags/#{{post_tag}}">{{ tag }}</a>{% if forloop.last == false %},{% endif %}
+    {% endfor %}
+  {% endif %}</p>
+  </article>
+
+  <div id="related">
+    <h1>Related Posts:</h1>
+    <section id="archive">
+    <ul>
+      {% for post in site.related_posts limit:3 %}
+        <li style="list-style-type:none;"><time>{{ post.date | date: "%m-%d" }}</time><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+    </section>
+  </div>
+
+  
+</div>
+
+

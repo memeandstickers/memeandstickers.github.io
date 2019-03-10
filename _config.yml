@@ -1,0 +1,31 @@
+# Site settings
+title:  "Random@Chris"
+author: "Chris"
+email: zhuixinjian@gmail.com
+description: "Chris, not a Full Stack Developer, Developer 2 PM, blog about PM and my life."
+baseurl: ""
+url: "http://zhuixinjian.com"
+twitter_username: zhuixinjian
+github_username:  zhuixinjian
+google_analytics_tracking_id: UA-65682024-1
+
+# Build settings
+highlighter: rouge
+markdown: kramdown
+permalink: pretty
+
+excerpt_separator: <!--more-->
+
+paginate: 10
+paginate_path: "/page/:num"
+
+kramdown:
+  input: GFM
+
+redcarpet:
+  extensions: ['smart', 'no_intra_emphasis', 'strikethrough', 'tables', 'footnotes', 'highlight', 'underline', 'autolink', 'fenced_code_blocks','hard_wrap','quote']
+
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji

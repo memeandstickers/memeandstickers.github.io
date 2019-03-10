@@ -1,0 +1,36 @@
+---
+layout: default
+title: Tags
+permalink: /blog/tags/
+---
+
+<header class="post-header">
+	<h1>Tags</h1>
+</header>
+
+<ul class="tag-list inline">
+{% for post_info in site.tags %}
+	{% assign post_tag = post_info | first %}
+	{% assign tag = site.data.tags[post_tag] %}
+	{% if tag == null %}
+		{% assign tag = post_tag %}
+	{% endif %}
+	<li><a href="#{{post_tag}}">{{ tag }}<span>{{ post_info[1].size }}</span></a></li>
+{% endfor %}
+</ul>
+
+<section id="tag-box">
+    {% for post_info in site.tags %}
+    	{% assign post_tag = post_info[0] %}
+    	{% assign tag = site.data.tags[post_tag] %}
+    	{% if tag == null %}
+    		{% assign tag = post_tag %}
+    	{% endif %}
+	<h2 id="{{post_tag}}" class="ahour">{{ tag }}<span>{{ post_info[1].size }}</span>:</h2>
+	<ul>
+		{% for post in post_info[1] %}
+		<li style="list-style-type:none;"><time>{{ post.date | date: "%m-%d" }}</time><a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% endfor %}
+	</ul>
+    {% endfor %}
+</section>

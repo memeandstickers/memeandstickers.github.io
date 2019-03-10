@@ -1,0 +1,36 @@
+---
+layout: default
+title: Category
+permalink: /blog/category/
+---
+
+<header class="post-header">
+	<h1>Categories</h1>
+</header>
+
+<ul class="tag-list inline">
+{% for post_info in site.categories %}
+	{% assign post_cate = post_info[0] %}
+	{% assign cate = site.data.categories[post_cate] %}
+	{% if cate == null %}
+		{% assign cate = post_cate %}
+	{% endif %}
+	<li><a href="#{{post_cate}}">{{ cate }}<span>{{ post_info[1].size }}</span></a></li>
+{% endfor %}
+</ul>
+
+<section id="category-box">
+    {% for post_info in site.categories %}
+    	{% assign post_cate = post_info[0] %}
+    	{% assign cate = site.data.categories[post_cate] %}
+    	{% if cate == null %}
+    		{% assign cate = post_cate %}
+    	{% endif %}
+	<h2 class="ahour"><a name="{{post_cate}}">{{ cate }}<span>{{ post_info[1].size }}</span>:</a></h2>
+	<ul>
+		{% for post in post_info[1] %}
+		<li style="list-style-type:none;"><time>{{ post.date | date: "%m-%d" }}</time><a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% endfor %}
+	</ul>
+    {% endfor %}
+</section>
