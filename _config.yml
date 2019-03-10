@@ -1,12 +1,12 @@
 # Site settings
-title:  "Random@Chris"
-author: "Chris"
-email: zhuixinjian@gmail.com
-description: "Chris, not a Full Stack Developer, Developer 2 PM, blog about PM and my life."
+title:  "Meme & Stickers"
+author: "Joary"
+email: joary.xu@gmail.com
+description: "Joary, Plan B."
 baseurl: ""
-url: "http://zhuixinjian.com"
-twitter_username: zhuixinjian
-github_username:  zhuixinjian
+url: "http://blog.memeandsticker.com"
+twitter_username: memeandsticker
+github_username:  memeandsticker
 google_analytics_tracking_id: UA-65682024-1
 
 # Build settings
