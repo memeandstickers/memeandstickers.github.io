@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Privacy & Terms
+title: Community Guidelines
 category: general
 tags: []
 published: True
