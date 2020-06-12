@@ -24,13 +24,13 @@ Sharing: Sharing is great. Please use StickerMobi's embed options, available on 
 
 Pornography & Explicit Nudity: You can’t upload anything that depicts any form of sex act or other sexually explicit material. Straight up: Your Stickers can’t show any explicit nudity at all. Sorry! In general, if it’s not something that you’d show your mom, don’t upload or create it on StickerMobi.
 
-**Violence:** We don’t mind Stickers that show fictional violence (in other words, pretend play where no one actually gets hurt), but if it’s real, then it’s not allowed. Any Stickers that portray real death, mutilation, gore, or assault are not permitted.
+**Violence:** We mind Violence Stickers, if it’s real, it’s not allowed. Any Stickers that portray real death, mutilation, gore, or assault are not permitted.
 
 **Self-Harm:** You can’t create, upload, or share anything that encourages or promotes self-harm. This includes activities or behavior related to suicide, self-mutilation, or eating disorders.
 
 **Animal Cruelty:** Absolutely no Stickers of animals being harmed or abused are permitted. Period.
 
-Bullying, Stalking, Harassment, or Threats: You can’t create, upload, or share Stickers to bully, harass, or threaten another individual.
+**Bullying, Stalking, Harassment, or Threats:** You can’t create, upload, or share Stickers to bully, harass, or threaten another individual.
 
 **Hate Speech:** Stickers are meant for everyone, so we don’t allow any that slander, demean, or belittle another group or person based upon their race, religion, gender, or sexual orientation. Those are a definite no.
 
