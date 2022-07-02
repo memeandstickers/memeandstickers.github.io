@@ -2,5 +2,6 @@
 ---
 User-agent: *
 Allow: /
+Allow: app-ads.txt
 
 Sitemap: {{ site.url }}/sitemap.xml
