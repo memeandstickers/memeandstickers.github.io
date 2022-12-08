@@ -50,12 +50,18 @@ Above every Sticker on StickerMobi.com, there is a dropdown menu labeled with an
 
 # Copyright Policy
 StickerMobi respects the intellectual property rights of others and expects users of the Services to do the same. We will respond to notices of copyright infringement that comply with applicable law and are properly provided to us. If you believe that your Content has been copied in a way that constitutes copyright infringement, please immediately notify us using the contact information provided below(“Contact Us”) with the following information:
-* a physical or electronic signature of the copyright owner or a person authorized to act on their behalf; 
-* identification of the copyrighted work claimed to have been infringed; 
-* identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material; 
-* your contact information, including your address, telephone number, and an email address; 
-* a statement by you that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and 
-* a statement that the information in the notification is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
+
+    (i) a physical or electronic signature of the copyright owner or a person authorized to act on their behalf;
+
+    (ii) identification of the copyrighted work claimed to have been infringed;
+
+    (iii) identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material;
+
+    (iv) your contact information, including your address, telephone number, and an email address;
+    
+    (v) a statement by you that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+
+    (vi) a statement that the information in the notification is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
 
 We reserve the right to remove Content alleged to be infringing without prior notice, at our sole discretion, and without liability to you. In appropriate circumstances, StickerMobi will also terminate a user’s account if the user is determined to be a repeat infringer.
 
