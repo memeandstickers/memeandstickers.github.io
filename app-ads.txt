@@ -267,3 +267,4 @@ yahoo.com, 59627, RESELLER
 yandex.com, 95746987, RESELLER
 yeahmobi.com, 15984, RESELLER
 yeahmobi.com, 5135224, RESELLER
+facebook.com, 2451030291633157, DIRECT, c3e20eee3f780d68
