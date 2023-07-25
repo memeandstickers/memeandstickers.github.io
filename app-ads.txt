@@ -634,3 +634,11 @@ betweendigital.com, 45117, RESELLER
 pubmatic.com, 162968, RESELLER, 5d62403b186f2ace
 brightcom.com, 29559, RESELLER
 pubnative.net, 1008379, RESELLER, d641df8625486a7b
+criteo.com, B-070302, RESELLER, 9fac4a4a87c2a44f
+smartadserver.com, 4140, RESELLER
+smartadserver.com, 4457, RESELLER, 060d053dcf45cbf3
+criteo.com, B-070302, RESELLER, 9fac4a4a87c2a44f
+pubnative.net, 1008379, RESELLER, d641df8625486a7b
+media.net, 8CUD06Z68, RESELLER
+inmobi.com, 7847fe1f9ac54b4abe609cde4011243b, RESELLER, 83e75a7ae333ca9d
+digitalturbine.com,217436,DIRECT
