@@ -915,3 +915,4 @@ outbrain.com,002d7f7ba0bd74452f2b155d0dfb5cd6c8,RESELLER
 triplelift.com,11656,RESELLER,6c33edb13117fd86
 media.net,8cu1cp7pm,RESELLER
 pubwise.io,52324626,RESELLER,c327c91a93a7cdd3
+facebook.com, 2451030291633157, DIRECT, c3e20eee3f780d68
