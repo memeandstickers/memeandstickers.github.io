@@ -916,3 +916,8 @@ triplelift.com,11656,RESELLER,6c33edb13117fd86
 media.net,8cu1cp7pm,RESELLER
 pubwise.io,52324626,RESELLER,c327c91a93a7cdd3
 facebook.com, 2451030291633157, DIRECT, c3e20eee3f780d68
+thunder-monetize.com, 4588767099, RESELLER
+opera.com, pub9598692093632, RESELLER, 55a0c5fd61378de3
+opera.com, pub9598682313984, RESELLER, 55a0c5fd61378de3
+smartadserver.com, 4762, RESELLER, 060d053dcf45cbf3
+google.com, pub-5889856574152980, DIRECT, f08c47fec0942fa0
