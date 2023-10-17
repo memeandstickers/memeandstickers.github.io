@@ -921,3 +921,16 @@ opera.com, pub9598692093632, RESELLER, 55a0c5fd61378de3
 opera.com, pub9598682313984, RESELLER, 55a0c5fd61378de3
 smartadserver.com, 4762, RESELLER, 060d053dcf45cbf3
 google.com, pub-5889856574152980, DIRECT, f08c47fec0942fa0
+adform.com,2742,RESELLER 
+pubmatic.com,162882,RESELLER,
+5d62403b186f2ace pubmatic.com,163319,RESELLER,
+5d62403b186f2ace bidmachine.io,147,RESELLER 
+bidmachine.io,148,RESELLER 
+bidmachine.io,189,RESELLER 
+bidmachine.io,190,RESELLER 
+display.io,173162,RESELLER 
+freewheel.tv,1600180,RESELLER 
+freewheel.tv,1600214,RESELLER 
+my.test.c1,aacc,DIRECT 
+smartadserver.com,4625,RESELLER,060d053dcf45cbf3 
+sonobi.com,a85c5f6129,RESELLER,d1a215d9eb5aee9e
