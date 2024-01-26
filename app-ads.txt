@@ -1508,3 +1508,4 @@ criteo.com, B-072581, RESELLER, 9fac4a4a87c2a44f
 inmobi.com, 30eb9116886a497db0c502e8cf0aa4d3, RESELLER, 83e75a7ae333ca9d
 ignitemediatech.com, pub_11112, RESELLER
 lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
+facebook.com, 1620487461688486, DIRECT, c3e20eee3f780d68
