@@ -1,15 +1,12 @@
-### Privacy & Terms: SticKeyboard
+---
+layout: post
+title: Privacy & Terms: SticKeyboard
+category: general
+tags: []
+published: True
+comments: True
 
 ---
-
-layout: post  
-title: Privacy & Terms  
-category: general  
-tags: []  
-published: True  
-comments: True  
-
----  
 
 # TERMS OF SERVICE
 
