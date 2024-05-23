@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Privacy & Terms: SticKeyboard
+title: Stickeyboard Privacy & Terms
 category: general
 tags: []
 published: True
