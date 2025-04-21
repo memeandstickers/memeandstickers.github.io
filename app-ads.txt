@@ -2164,3 +2164,10 @@ smaato.com, 1100058954, RESELLER, 07bcf65f187117b4
 openx.com, 562174952, RESELLER, 6a698e2ec38604c6
 rubiconproject.com, 27130, RESELLER, 0bfd66d529a55807
 pubeasy.io, 110039, RESELLER
+video.unrulymedia.com, 476748946, RESELLER
+appnexus.com, 17417, RESELLER, f5ab79cb980f11d1
+xandr.com, 17417, RESELLER, f5ab79cb980f11d1
+showheroes.com, 6037, RESELLER
+unrulymedia.com, 476748946, RESELLER
+bidmachine.io, 1065, RESELLER
+bidmachine.io, 1064, RESELLER
